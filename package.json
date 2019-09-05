@@ -1,5 +1,6 @@
 {
   "name": "snyk-try-require",
+  "version": "1.3.2",
   "description": "Snyk package loading system with policy detection",
   "main": "lib/try-require.js",
   "scripts": {
